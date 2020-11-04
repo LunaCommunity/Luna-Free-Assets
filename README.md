@@ -18,3 +18,5 @@ Each asset has three variations: two colours variations, and one version with tr
 
 ![Example Buttons](/Buttons/8/button_example.png?raw=true=250x)
 
+<img src="/Buttons/8/button_example.png" width="200" />
+
