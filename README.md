@@ -16,5 +16,5 @@ Each asset has three variations: two colours variations, and one version with tr
 
 ## Example
 
-![Alt text](/tree/main/Buttons/8/button_example.png?raw=true "Optional Title")
+![Example Buttons](tree/main/Buttons/8/button_example.png?raw=true)
 
