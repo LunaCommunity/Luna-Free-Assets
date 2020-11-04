@@ -16,5 +16,5 @@ Each asset has three variations: two colours variations, and one version with tr
 
 ## Example
 
-![Example Buttons](tree/main/Buttons/8/button_example.png?raw=true)
+![Example Buttons](/Buttons/8/button_example.png?raw=true)
 
