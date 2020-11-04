@@ -12,6 +12,8 @@ Inlcuding in this pack, are essential UI elements that you'll need to make an ap
 * 5 Arrows
 * 3 Fingers for turorials
 
+Each asset has three variations: two colours variations, and one greyscale version.
+
 ## Example
 
 Pictures go here
