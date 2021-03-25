@@ -1,1 +1,1 @@
-<img src="/banners.jpg" />
+<img src="/Banners/banners.jpg" width=600 />

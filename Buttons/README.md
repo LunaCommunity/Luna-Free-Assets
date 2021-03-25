@@ -1,1 +1,1 @@
-<img src="/buttons.jpg" />
+<img src="/Buttons/buttons.jpg" width=600 />

@@ -1,1 +1,1 @@
-<img src="/fingers.jpg" />
+<img src="/Fingers/fingers.jpg" width=600 />
