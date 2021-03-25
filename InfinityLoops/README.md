@@ -1,1 +1,1 @@
-<img src="/infinityLoops/infinityloops.jpg" />
+<img src="/InfinityLoops/infinityloops.jpg" />
