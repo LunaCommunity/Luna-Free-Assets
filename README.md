@@ -14,10 +14,7 @@ Inlcuding in this pack, are essential UI elements that you'll need to make an ap
 
 Each asset have a transparent fill so that they can be easily recoloured. In addition to that we include 2 sample colour variations for each asset.
 
-## Example Button
+## Examples
 
-<img src="/Buttons/8/button_example.png" width="200" />
+<img src="https://i.imgur.com/zAjAaO9.jpg" />
 
-## Example Banner
-
-<img src="/Banners/3/banner_example.png" width="200" />
